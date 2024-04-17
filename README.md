@@ -1,1 +1,3 @@
 # HR-ANALYTICS-DASHBOARD
+
+![images (1)2](https://github.com/Ajeetm1/HR-ANALYTICS-DASHBOARD/assets/165381538/da95c59e-9049-4ce5-9a36-02830d669986)
