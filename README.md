@@ -2,7 +2,7 @@
 
 # HR Analytics Dashboard
 
-[HR Analytics.pdf](https://github.com/Ajeetm1/HR-ANALYTICS-DASHBOARD/files/15023316/HR.Analytics.pdf)
+
 
 **Objective:**
 This Power BI project is all about figuring out why employees are leaving the company. By looking at things like who's leaving, why were they all not happy
