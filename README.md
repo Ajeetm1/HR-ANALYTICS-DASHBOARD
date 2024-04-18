@@ -44,9 +44,9 @@ These tools are utilized to gain insights and present data in a comprehensive an
 
 
 ## Key Insights Summary:
-1. Total Employees: The organization has grown significantly, currently employing 1470 individuals, indicating substantial growth and scale.
+1. Total Employees: The organization has grown significantly, currently employing 1473 individuals, indicating substantial growth and scale.
 
-2. Attrition Analysis: A total of 237 employees left the organization. Among them, 150 were male, and 87 were female, indicating a higher attrition rate among males.
+2. Attrition Analysis: A total of 237 employees left the organization. indicating a higher attrition rate among males.
 
 3. Departmental Attrition: The Research and Development Department experienced the highest attrition  133 employee, suggesting potential areas for improvement in employee retention strategies in this department.
 
